@@ -1,0 +1,12 @@
+PS C:\Users\HOO\Projet_1> python -u "c:\Users\HOO\Projet_1\import sys.py"
+3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+C:\Users\HOO\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe
+Hello,Houba
+PS C:\Users\HOO\Projet_1> git config --global user.email "oualla.houbayda@gmail.com"
+PS C:\Users\HOO\Projet_1> git config --global user.name "houalla88"
+PS C:\Users\HOO\Projet_1> python -u "c:\Users\HOO\Projet_1\import sys.py"
+3.10.8 (tags/v3.10.8:aaaf517, Oct 11 2022, 16:50:30) [MSC v.1933 64 bit (AMD64)]
+C:\Users\HOO\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\python.exe
+Hello,Houba
+PS C:\Users\HOO\Projet_1> git remote add origin https://github.com/houalla88/Projet_1.git
+PS C:\Users\HOO\Projet_1>  
